@@ -1,0 +1,1 @@
+This is an implementation framework for web automation testing, which includes a basic web framework and utilizes an object-oriented programming (OOP) style to structure the code. The goal is to achieve automated testing for web pages.
